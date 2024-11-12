@@ -1,0 +1,13 @@
+openai
+llama-index
+nltk
+llama-parse
+llm-guard
+llama-index-postprocessor-presidio
+litellm
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-gemini
+llama-index-multi-modal-llms-gemini
+llama-index-callbacks-arize-phoenix
+python-dotenv
